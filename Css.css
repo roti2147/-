@@ -19,14 +19,14 @@ h1 {
 .bottom-container{
 
 }
-.img{
+body{
   background-image: url("images/Anime.jpg");
   background-color: #cccccc;
   background-repeat: no-repeat;
   widows: 100%;
   height: 400px;
-  background-size: contain;
+  background-size: cover;
 }
 .gay {
-  
+
 }
