@@ -20,7 +20,17 @@ h1 {
 
 }
 body{
+<<<<<<< HEAD
   background-image: url("image2.jpg");
+=======
+  background-image: url("images/Anime.jpg");
+>>>>>>> e5bfee216ce60fd2f7eb3103132ec5aaa1cb1e12
   background-color: #cccccc;
   background-repeat: no-repeat;
+  widows: 100%;
+  height: 400px;
+  background-size: cover;
+}
+.gay {
+
 }
