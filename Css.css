@@ -53,6 +53,11 @@ body{
   text-decoration: none;
 }
 .form{
+<<<<<<< HEAD
   background-color: turquoise;
   opacity: 0.6;
+=======
+  margin: auto 0 auto 0;
+  border-style: double;
+>>>>>>> b32bb5930e3cbe4a40f19efc8ceab79fbc80a08e
 }
