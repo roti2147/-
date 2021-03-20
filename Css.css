@@ -57,6 +57,6 @@ body{
   opacity: 0.6;
   width: 500px;
 
-  margin: auto auto auto 0;
+  margin: auto 0 auto 0;
   border-style: double;
 }
