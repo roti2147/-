@@ -20,11 +20,22 @@ h1 {
 
 }
 body{
+<<<<<<< HEAD
 
   background-image: url("images/image3.png");
 
+=======
+  background-image: url("images/image2.jpg");
+>>>>>>> 84fd966eded92fd9db10f75e5c40c6e07b960254
   background-color: #cccccc;
   background-repeat: no-repeat;
   height: 400px;
   background-size: cover;
+}
+.forms {
+  margin-left: 500px;
+  margin-right: 500px;
+  border-width: 5px;
+  border-style: double;
+
 }
