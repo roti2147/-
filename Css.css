@@ -22,4 +22,5 @@ h1 {
 body{
   background-image: url("image.jpg");
   background-color: #cccccc;
+  background-repeat: no-repeat;
 }
