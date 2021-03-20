@@ -1,9 +1,11 @@
 head {
 
 }
-<<<<<<< HEAD
+
 h1 {
-  font-family:cursive;
+  color: red;
+  font-size: 4rem;
+  font-family:cursive , lucida handwriting , sans-serif;
 }
 
 
