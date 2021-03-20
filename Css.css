@@ -20,7 +20,14 @@ h1 {
 
 }
 body{
+<<<<<<< HEAD
   background-image: url("images/image3.jpg");
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+  background-image: url("images/image3.png");
+>>>>>>> 7ae9256457d7e3afb7d9161d7d6da8f5f3fd1b6b
   background-color: #cccccc;
   background-repeat: no-repeat;
   height: 400px;
