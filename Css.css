@@ -48,15 +48,10 @@ body{
   text-decoration: none;
 }
 .form{
-<<<<<<< HEAD
-  background-color: turquoise;
-  opacity: 0.4;
-=======
   background: rgba(128, 128, 128, .7);
-  margin: auto 500px auto 0;
->>>>>>> 8297c3c7e6f17093a595e8fabd69ebd53aa68935
+  margin: 10% auto 10% auto;
   width: 500px;
   height: 100%;
-  margin: 5% 0 auto 0;
   border-style: double;
+
 }
