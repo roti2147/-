@@ -27,6 +27,9 @@ body{
   height: 400px;
   background-size: cover;
 }
-.gay {
+.forms {
+  padding-left: 50px;
+  border-width: 10px;
+  border-style: double;
 
 }
