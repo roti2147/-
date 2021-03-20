@@ -1,7 +1,9 @@
 head {
 
 }
-<<<<<<< Updated upstream
+h1 {
+  font-family:cursive;
+}
 .top-container{
 
 }
@@ -9,9 +11,5 @@ head {
 
 }
 .bottom-container{
-  
-=======
-h1 {
-  font-family: lucida handwriting , cursive , sans-serif;
->>>>>>> Stashed changes
+
 }
