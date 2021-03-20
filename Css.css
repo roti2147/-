@@ -26,10 +26,10 @@ body{
   height: 400px;
   background-size: cover;
 }
-.forms {
-  margin-left: 500px;
-  margin-right: 500px;
+.form {
+  margin: auto;
   border-width: 5px;
   border-style: double;
+
 
 }
