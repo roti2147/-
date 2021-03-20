@@ -48,7 +48,7 @@ body{
   text-decoration: none;
 }
 .form{
-  margin: 200px 500px auto 500px;
+  margin: auto 0 auto 0;
   background-color: turquoise;
   opacity: 0.4;
   width: 500px;
