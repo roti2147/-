@@ -50,9 +50,10 @@ body{
 .form{
   margin: auto 0 auto 0;
   background-color: turquoise;
-  opacity: 0.4;
+  opacity: 1.8;
   width: 500px;
   height: 520px;
   margin: auto 0 auto 0;
   border-style: double;
+
 }
