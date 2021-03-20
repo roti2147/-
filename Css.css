@@ -3,7 +3,7 @@ head {
 }
 
 h1 {
-  color: black;
+  color: #caf7e3;
   text-decoration:underline;
   font-size: 4rem;
   font-family:cursive , lucida handwriting , sans-serif;
@@ -21,11 +21,10 @@ h1 {
 }
 body{
 
-  background-image: url("images/image2.jpg");
+  background-image: url("images/image3.png");
 
   background-color: #cccccc;
   background-repeat: no-repeat;
-  widows: 100%;
   height: 400px;
   background-size: cover;
 }
