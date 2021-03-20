@@ -52,3 +52,7 @@ body{
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
 }
+.form{
+  margin: auto 0 auto 0;
+  border-style: double;
+}
