@@ -48,6 +48,14 @@ body{
   text-decoration: none;
 }
 .form{
+<<<<<<< HEAD
   margin: 200px 500px auto 500px;
+=======
+  background-color: turquoise;
+  opacity: 0.4;
+  width: 500px;
+  height: 520px;
+  margin: auto 0 auto 0;
+>>>>>>> 1dd7579c89ce87e58a88e4050aed2c38f60d67ea
   border-style: double;
 }
