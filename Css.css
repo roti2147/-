@@ -28,7 +28,8 @@ body{
   background-size: cover;
 }
 .forms {
-  margin-left: 500px; 
+  margin-left: 500px;
+  margin-right: 500px;
   border-width: 5px;
   border-style: double;
 
