@@ -3,7 +3,8 @@ head {
 }
 
 h1 {
-  color: red;
+  color: black;
+  text-decoration:underline;
   font-size: 4rem;
   font-family:cursive , lucida handwriting , sans-serif;
 }
