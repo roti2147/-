@@ -49,16 +49,10 @@ body{
 }
 .form{
   background: rgba(128, 128, 128, .7);
-<<<<<<< HEAD
   margin: auto 500px auto 0;
   width: 200px;
   height: 200%;
-  margin: 7% 0 auto 0;
-=======
   margin: 5% auto 0 auto;
-  width: 500px;
-  height: 100%;
->>>>>>> 2875460cbbfc305dbdf5fb5d7f5cb4dca26f595a
   border-style: double;
 
 }
