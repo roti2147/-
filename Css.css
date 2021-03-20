@@ -21,11 +21,10 @@ h1 {
 }
 body{
 <<<<<<< HEAD
-  background-image: url("images/image2.jpg");
->>>>>>> e5bfee216ce60fd2f7eb3103132ec5aaa1cb1e12
+
   background-color: #cccccc;
-  background-repeat: no-repeat;
+  background-repeat: no-rebpeat;
   widows: 100%;
   height: 400px;
-  background-size: cover;
+  background-size: covers;
 }
