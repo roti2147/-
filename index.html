@@ -65,24 +65,31 @@
     <div class="top-container">
 <center>
   <div class="form">
-
     <div class="forms"><form action="/action_page.php">
     <fieldset>
-      <legend>Personalia:</legend>
-      <label for="fname">Email:</label><br>
-      <input type="email" id="fname" name="fname" ><br>
-      <label for="lname"> username:</label><br>
-      <input type="text" id="lname" name="lname"><br><br>
-      <label for="pass"> password:</label><br>
-      <input type="password" id="pass" name="pass">
-      <button type="button" name="button" class="btn">submit</button>
+      <span class="form-title">REGISTER AN ACCOUNT</span><br><br>
+      <label class="nickname" for="fname"><span>Nickname</span></label><br>
+      <input type="username" id="fname" name="fname" ><br><br>
+      <label class="password" for="lname"><span>Password</span></label><br>
+      <input type="password" id="pass" name="pass"><br><br>
+      <label for="pass"><span>Confirm password</span></label><br>
+      <input type="password" id="pass" name="pass"><br><br>
+      <table>
+        <tr>
+          <td><input class="checkbox" type="checkbox" id="terms" name="terms" value="terms-accepted"></td>
+          <td><label class="terms" for="terms">I accept the terms of the <a href="#">Policy and the Cookies policy.</a></label></td>
+        </tr>
+      </table>
+      <button type="button" name="button" class="btn"
+      style="font-size: 12px; padding-left: 5px; padding-right: 5px; margin-left: 5px; margin-bottom: 3px;"
+      >COMPLETE REGISTRATION</button>
     </fieldset>
   </div>
   </center>
   </div>
   </div>
   <div class="footer">
-    <footer >
+    <footer>
           <div class="container-fluid">
             <i class="social-icon fab fa-facebook-f"></i>
             <i class="social-icon fab fa-twitter"></i>
