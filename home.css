@@ -51,10 +51,12 @@ body{
   background: #7febde;
   text-decoration: none;
 }
-.footer{
-  height: 13%;
-  background-color: turquoise;
-  border-top: 5px ;
-  margin-top: 421px;
-
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: turquoise;
+   color: black;
+   text-align: center;
 }
