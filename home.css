@@ -26,6 +26,7 @@ body{
   height: 400px;
   background-size: cover;
   font-family: "Lato", sans-serif;
+
 }
 .btn {
   background: #1ee6d5;
@@ -100,4 +101,5 @@ body{
   width: 15rem;
   margin-left: 100px;
   display: block;
+
 }
