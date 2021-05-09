@@ -1,0 +1,98 @@
+h1 {
+  font-size: 4rem;
+  font-family: cursive;
+  text-decoration: underline;
+  color: #caf7e3;
+  text-decoration:underline;
+  font-size: 4rem;
+  font-family:cursive , lucida handwriting , sans-serif;
+}
+head {
+
+}
+
+.top-container{
+
+}
+.middle-container{
+
+}
+.bottom-container{
+
+}
+body{
+  background-color: #e2bcb7;
+  background-repeat: no-repeat;
+  height: 400px;
+  background-size: cover;
+  font-family: "Lato", sans-serif;
+}
+.btn {
+  background: #1ee6d5;
+  background-image: -webkit-linear-gradient(top, #1ee6d5, #3ea3f0);
+  background-image: -moz-linear-gradient(top, #1ee6d5, #3ea3f0);
+  background-image: -ms-linear-gradient(top, #1ee6d5, #3ea3f0);
+  background-image: -o-linear-gradient(top, #1ee6d5, #3ea3f0);
+  background-image: linear-gradient(to bottom, #1ee6d5, #3ea3f0);
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 6px 15px 6px 15px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #7febde;
+  text-decoration: none;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #e4d3cf;
+   color: black;
+   text-align: center;
+}
+
+
+
+.sidenav {
+  height: 75%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: white;
+  overflow-x: hidden;
+  padding-top: 20px;
+  margin-top: 5%;
+
+
+}
+
+.sidenav a {
+  padding: 6px 6px 6px 32px;
+  margin-top: 50px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.main {
+  margin-left: 200px; /* Same as the width of the sidenav */
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
