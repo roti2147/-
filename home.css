@@ -12,9 +12,9 @@ head {
 }
 .card{
   width: 300px;
-  margin-right: 50px;
+  margin-right: 100px;
   height: 450px;
-  margin-left: 50px;
+
   margin-top: 40px;
 }
 .top-container{
@@ -54,12 +54,6 @@ body{
   background: #7febde;
   text-decoration: none;
 }
-
-.btn-primary{
-  position: absolute;
-  
-}
-
 .footer {
    position: fixed;
    left: 0;
