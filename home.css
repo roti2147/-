@@ -10,7 +10,10 @@ h1 {
 head {
 
 }
-
+.card{
+  width: 300px;
+  margin-right: 100px;
+}
 .top-container{
 
 }
