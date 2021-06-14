@@ -12,9 +12,9 @@ head {
 }
 .card{
   width: 300px;
-  margin-right: 100px;
+  margin-right: 50px;
   height: 450px;
-
+  margin-left: 50px;
   margin-top: 40px;
 }
 .top-container{
@@ -63,9 +63,6 @@ body{
    color: black;
    text-align: center;
 }
-
-
-
 
 .main {
   margin-left: 200px; /* Same as the width of the sidenav */
