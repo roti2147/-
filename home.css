@@ -15,7 +15,6 @@ head {
   margin-right: 100px;
   height: 450px;
 
-
   margin-top: 40px;
 }
 .top-container{
@@ -70,8 +69,7 @@ body{
 .sidenav {
   height: 75%;
   width: 200px;
-  position-y: fixed;
-   position: relative;
+  position: static;
   z-index: 1;
   top: 0;
   left: 0;
